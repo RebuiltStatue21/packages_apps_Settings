@@ -25,7 +25,7 @@ import androidx.preference.Preference;
 import com.android.settings.R;
 import com.android.settings.core.BasePreferenceController;
 
-public class SakuraMaintainerPreferenceController extends BasePreferenceController {
+public class SakuraBuildTypePreferenceController extends BasePreferenceController {
 
     private static final String TAG = "SakuraBuildTypePreferenceController";
     private static final String ROM_PROPERTY = "ro.sakura.buildtype";
